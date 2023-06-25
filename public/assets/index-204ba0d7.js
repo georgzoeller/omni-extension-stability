@@ -137,7 +137,7 @@ For more info see: https://github.com/konvajs/react-konva/issues/194
             animation-timing-function: ease-in-out;
             animation-direction: alternate;
           `,children:C("div",{className:"h-full w-full",css:css`
-              background-image: url("/RainbowSpiral.jpg");
+              background-image: url("./RainbowSpiral.jpg");
               background-size: cover;
               background-repeat: repeat;
               background-position: center;
